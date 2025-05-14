@@ -8,7 +8,7 @@ export function Hero() {
     <section className="bg-[#e84c3d] text-white relative overflow-hidden">
 
       <div>
-        <Image 
+        <Image
           src={dogImg}
           alt='foto do dogneo'
           fill
@@ -24,16 +24,20 @@ export function Hero() {
         <article className="grid grid-cols-1 lg:grid-cols-2 gap-8">
           <div className="space-y-6 ">
 
-            <h1 className="text-3xl font-bold md:text-4xl lg:text-5xl leading-10">
+            <h1
+              data-aos="fade-down"
+              className="text-3xl font-bold md:text-4xl lg:text-5xl leading-10">
               Seu pet merece cuidado, carinho e atenção especial.
             </h1>
 
-            <p className="lg:text-lg">
+            <p 
+            data-aos="fade-right"
+            className="lg:text-lg">
               Oferecemos os melhores servicos para garantia o bem-estar e a felicidade do seu amigo de quatro patas.
             </p>
 
-            <a href="#" className="bg-green-500 px-5 py-2 rounded-md font-semibold flex items-center justify-center w-fit gap-2">
-              <WhatsappLogo className='w-5 h-5 '/>
+            <a data-aos="fade-up" data-aos-delay="500" href="#" className="bg-green-500 px-5 py-2 rounded-md font-semibold flex items-center justify-center w-fit gap-2">
+              <WhatsappLogo className='w-5 h-5 ' />
               Contato via WhatsApp
             </a>
 
@@ -44,7 +48,7 @@ export function Hero() {
 
               <div className='flex mt-4'>
                 <div className='w-32 hidden lg:block'>
-                  <Image 
+                  <Image
                     src={catImg}
                     alt='foto do gato'
                     quality={100}
