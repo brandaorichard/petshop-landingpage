@@ -5,7 +5,7 @@ Landing page moderna e responsiva para pet shop, desenvolvida com Next.js, React
 
 ## ✨ Demonstração
 
-![Demonstração da landing page](./public/hero-dog.webp)
+![Demonstração da landing page](./public/app-img.png)
 
 ## 🚀 Tecnologias Utilizadas
 
