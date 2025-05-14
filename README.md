@@ -5,9 +5,7 @@ Landing page moderna e responsiva para pet shop, desenvolvida com Next.js, React
 
 ## ✨ Demonstração
 
-![Demonstração da landing page](./public/app-img.png)
-
-[](./public/app-img2.png)
+![Demonstração da landing page](./public/app-img.png)[](./public/app-img2.png)
 
 
 ## 🚀 Tecnologias Utilizadas
@@ -98,4 +96,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Desenvolvido com ❤️ por [Seu Nome](https://github.com/seu-usuario)
+Desenvolvido com ❤️ por [Ricardo Brandão](https://github.com/brandaorichard)
